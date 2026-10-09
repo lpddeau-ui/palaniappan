@@ -4085,4 +4085,25 @@ TNSCST DST Supported)</font></font></p>
 <p class="western"><br/>
 </p>
 </main><footer>Source: Curriculum Vitae document supplied by the user. Content is presented as provided in the source document.</footer></body>
+html
+```
+<tr valign="top">
+<td style="border: none; padding: 0in" width="95">
+<p align="justify" class="western">
+<font face="Times New Roman, serif">
+<font face="Arial Narrow, sans-serif">18-09-2025 – 18-08-2026</font>
+</font>
+</p>
+<p align="justify" class="western"><br/></p>
+```
+
+தமிழில் தேதிகள்:
+
+18-09-2025 – 18-08-2026
+
+தமிழ் எண்களில்:
+
+18-09-2025 – 18-08-2026
+
+குறிப்பு: தேதிகள் ஏற்கனவே சரியான வடிவத்தில் உள்ளன. HTML குறியீட்டில் உள்ள மற்ற உரைகளும் அப்படியே வைக்கப்பட்டுள்ளன.
 </html>
